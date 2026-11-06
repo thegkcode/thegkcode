@@ -1,15 +1,29 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=180&section=header&text=Gaurav%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3a8a&height=200&section=header&text=Gaurav%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%" />
 
-### 👋 Hi, I'm Gaurav Kumar
+# Gaurav Kumar
 
-**Computer Science Student | Aspiring Data Scientist | Exploring Data Analytics & Machine Learning**
+### Aspiring Data Scientist | Data Analytics | Machine Learning
+
+*Turning data into insights and insights into meaningful solutions.*
 
 <p>
-<a href="https://github.com/thegkcode">
-<img src="https://komarev.com/ghpvc/?username=thegkcode&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</a>
+  <a href="https://github.com/thegkcode">
+    <img src="https://komarev.com/ghpvc/?username=thegkcode&style=flat-square&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/thegkcode?tab=followers">
+    <img src="https://img.shields.io/github/followers/thegkcode?style=flat-square&color=0e75b6&label=Followers" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<p>
+  <a href="mailto:gauravkumargk3004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0e75b6?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@gauravkumargk3004">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-000000?style=flat-square&logo=medium&logoColor=white" />
+  </a>
 </p>
 
 </div>
@@ -18,190 +32,121 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 I’m currently working on **Data Analytics Projects**
-* 🌱 I’m currently learning **Machine Learning & Advanced Data Science**
-* 👯 I’m looking to collaborate on **Data Analytics & Machine Learning Projects**
-* 📝 I regularly write articles on **[Medium](https://medium.com/@gauravkumargk3004)**
-* 💬 Ask me about **Python, SQL, Data Analysis & Data Visualization**
-* 📫 How to reach me **[gauravkumargk3004@gmail.com](mailto:gauravkumargk3004@gmail.com)**
-* ⚡ Fun fact **I enjoy solving challenging problems and turning data into meaningful insights.**
+Hello! I'm **Gaurav Kumar**, a Computer Science student passionate about Data Science, Data Analytics, and Machine Learning.
+
+I enjoy exploring datasets, discovering patterns, solving analytical problems, and transforming raw data into meaningful insights.
+
+- 🔭 Currently working on Data Analytics projects.
+- 🌱 Learning Machine Learning and advanced Data Science concepts.
+- 💡 Interested in data-driven problem solving and analytical thinking.
+- 🤝 Open to collaborating on Data Analytics and Machine Learning projects.
+- ✍️ I share my thoughts and learning through [Medium](https://medium.com/@gauravkumargk3004).
+- 📫 Reach me at: **[gauravkumargk3004@gmail.com](mailto:gauravkumargk3004@gmail.com)**
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Technical Skills
 
-<p align="center">
+### Programming Languages
 
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42" height="42" alt="Arduino"/>
-</a>&nbsp;&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="Programming Languages"/>
+</p>
 
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="42" alt="AWS"/>
-</a>&nbsp;&nbsp;
+### Data Analytics & Data Science
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" height="42" alt="C"/>
-</a>&nbsp;&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="48" height="48" alt="Seaborn"/>
+</p>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++"/>
-</a>&nbsp;&nbsp;
+### Databases
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" height="42" alt="Git"/>
-</a>&nbsp;&nbsp;
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle"/>
+</p>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java"/>
-</a>&nbsp;&nbsp;
+### Tools & Platforms
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.mongodb.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="42" alt="MongoDB"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="42" alt="MySQL"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.oracle.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
-</a>&nbsp;&nbsp;
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn"/>
-</a>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,arduino" alt="Tools and Platforms"/>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+I believe practical projects are one of the best ways to demonstrate technical knowledge and problem-solving abilities.
+
+<!-- Add your best 2-3 projects here.
+For each project, include:
+1. Project name
+2. Problem it solves
+3. Technologies used
+4. Key features or results
+5. GitHub repository link
+-->
+
+<p align="center">
+  <a href="https://github.com/thegkcode?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-View%20Repositories-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thegkcode&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&locale=en" alt="GitHub Statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thegkcode&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegkcode&layout=compact&langs_count=8&hide_border=true&locale=en" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegkcode&layout=compact&langs_count=6&hide_border=true&theme=transparent" alt="Most Used Languages"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=thegkcode&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-# 📌 GitHub Activity
+## ✍️ Latest Writing
 
-<div align="center">
+I also enjoy documenting my learning journey and sharing knowledge through technical articles.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thegkcode&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=thegkcode&hide_border=true&mode=weekly" alt="Contribution Streak"/>
-
-</div>
-
----
-
-# 📈 GitHub Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thegkcode&theme=github-compact&hide_border=true&custom_title=Commit%20Graph" width="100%" alt="Commit Graph"/>
-
-</div>
-
----
-
-# 📦 GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/thegkcode?tab=repositories">
-<img src="https://img.shields.io/badge/Total%20Repositories-View%20Repositories-181717?style=for-the-badge&logo=github" alt="Total Repositories"/>
+<a href="https://medium.com/@gauravkumargk3004">
+  <img src="https://img.shields.io/badge/Read%20My%20Medium%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles"/>
 </a>
 
-<a href="https://github.com/thegkcode?tab=stars">
-<img src="https://img.shields.io/badge/Stars%20Got-View%20Stars-181717?style=for-the-badge&logo=github" alt="Stars Got"/>
-</a>
-
-<a href="https://github.com/thegkcode?tab=followers">
-<img src="https://img.shields.io/badge/Followers-View%20Followers-181717?style=for-the-badge&logo=github" alt="Followers"/>
-</a>
-
-</div>
-
 ---
 
-# 🏆 GitHub Trophies
+## 🌐 Let's Connect
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=thegkcode&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophies"/>
-
-</div>
-
----
-
-# ⭐ Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/thegkcode?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
-</div>
-
----
-
-# 🔗 Connect With Me
-
-<div align="center">
-
 <a href="https://twitter.com/gk_kumar3126" target="_blank">
-<img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
-
-<a href="https://medium.com/@gauravkumargk3004" target="_blank">
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-
 <a href="https://www.leetcode.com/always_gk" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
-
 <a href="mailto:gauravkumargk3004@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%"/>
+### Thanks for visiting my profile!
+
+*Always learning. Always building. Always improving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e3a8a&height=100&section=footer" width="100%" />
 
 </div>
