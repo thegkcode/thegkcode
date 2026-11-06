@@ -1,190 +1,155 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=12&section=header" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,100:243B5A&height=210&section=header&text=GAURAV%20KUMAR&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20MACHINE%20LEARNING&descSize=13&descAlignY=63&descColor=C5D5EA" width="100%" alt="Gaurav Kumar"/>
 
-<br/><br/>
+### COMPUTER SCIENCE STUDENT · ASPIRING DATA SCIENTIST
 
-<p align="center">
-  <sub>PERSONAL PORTFOLIO &nbsp; / &nbsp; DATA & TECHNOLOGY</sub>
-</p>
-
-# GAURAV KUMAR
-
-### Data Science &nbsp; · &nbsp; Analytics &nbsp; · &nbsp; Machine Learning
-
-**Curiosity drives discovery. Data enables decisions.**
-
-<p align="center">
-  <a href="mailto:gauravkumargk3004@gmail.com">Email</a>
-  &nbsp; · &nbsp;
-  <a href="https://github.com/thegkcode">GitHub</a>
-  &nbsp; · &nbsp;
-  <a href="https://medium.com/@gauravkumargk3004">Medium</a>
-  &nbsp; · &nbsp;
-  <a href="https://www.leetcode.com/always_gk">LeetCode</a>
-  &nbsp; · &nbsp;
-  <a href="https://twitter.com/gk_kumar3126">X / Twitter</a>
-</p>
+**Turning data into insights. Building solutions through technology.**
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=thegkcode&label=PROFILE%20VISITORS&color=64748b&style=flat-square" alt="Profile Visitors"/>
+<a href="mailto:gauravkumargk3004@gmail.com">EMAIL</a>
+&nbsp; | &nbsp;
+<a href="https://github.com/thegkcode">GITHUB</a>
+&nbsp; | &nbsp;
+<a href="https://medium.com/@gauravkumargk3004">MEDIUM</a>
+&nbsp; | &nbsp;
+<a href="https://www.leetcode.com/always_gk">LEETCODE</a>
+&nbsp; | &nbsp;
+<a href="https://twitter.com/gk_kumar3126">X / TWITTER</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=E5E7EB&height=1&section=header" width="100%" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=thegkcode&style=flat-square&color=64748b&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-## PROFILE
+---
 
-### Thinking analytically. Building practically.
+## 01. ABOUT ME
 
-I am **Gaurav Kumar**, a Computer Science student passionate about understanding data, discovering patterns, and exploring intelligent technologies.
+Hello! I'm **Gaurav Kumar**, a Computer Science student passionate about Data Science, Data Analytics, and Machine Learning.
 
-My interests lie at the intersection of **Data Science, Data Analytics, and Machine Learning**. I enjoy working with datasets, developing programming skills, and exploring how analytical approaches can solve meaningful problems.
+I enjoy exploring datasets, identifying patterns, solving analytical problems, and transforming raw information into meaningful insights.
 
-I believe in continuous learning, practical experimentation, and building a strong technical foundation through consistent development.
+My focus is on developing practical technical skills, strengthening my analytical thinking, and applying what I learn through hands-on projects.
 
-**CURRENT DIRECTION**
-
-| Focus | Description |
-|:--|:--|
-| Working on | Data Analytics projects |
-| Learning | Machine Learning and advanced Data Science |
-| Exploring | Data-driven problem solving |
-| Collaboration | Data Analytics and Machine Learning projects |
-| Writing | Sharing technical knowledge on Medium |
+**Currently focused on:**
+- Building Data Analytics projects.
+- Learning Machine Learning and advanced Data Science.
+- Improving programming and problem-solving skills.
+- Exploring data-driven solutions to practical problems.
+- Collaborating on Data Analytics and Machine Learning projects.
 
 ---
 
-## TECHNICAL EXPERTISE
+## 02. TECHNICAL SKILLS
 
-A structured overview of the technologies I work with and continue to explore.
+A curated overview of my technical toolkit.
 
-**01 — PROGRAMMING**
+**Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=light" alt="Python, C, C++, Java and JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js&theme=light" alt="Python, C, C++, Java, JavaScript"/>
 </p>
 
-**02 — DATA SCIENCE & ANALYTICS**
+**Data Science & Analytics**
 
 <p>
   <img src="https://skillicons.dev/icons?i=pandas&theme=light" alt="Pandas"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="42" height="42" alt="Seaborn"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
 </p>
 
-**03 — DATABASE TECHNOLOGIES**
+**Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=light" alt="MySQL and MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="42" height="42" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/>
 </p>
 
-**04 — DEVELOPMENT & PLATFORMS**
+**Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,arduino&theme=light" alt="Git, GitHub, Linux, AWS and Arduino"/>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,aws,arduino&theme=light" alt="Git, GitHub, Linux, AWS, Arduino"/>
 </p>
 
 ---
 
-## SELECTED WORK
+## 03. FEATURED PROJECTS
 
-### From concepts to practical implementation.
+**Applying technical knowledge to practical problems.**
 
-I use hands-on projects to strengthen my technical knowledge, explore analytical techniques, and improve my problem-solving abilities.
+I believe meaningful projects demonstrate the ability to apply concepts, think analytically, and develop practical solutions.
+
+<!-- Replace these placeholders with your actual projects. -->
+
+| Project | Description | Repository |
+|:--|:--|:--|
+| Project 01 | Add your project description | [View Project](https://github.com/thegkcode?tab=repositories) |
+| Project 02 | Add your project description | [View Project](https://github.com/thegkcode?tab=repositories) |
+| Project 03 | Add your project description | [View Project](https://github.com/thegkcode?tab=repositories) |
 
 <div align="center">
 
 <a href="https://github.com/thegkcode?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
 </a>
-
-<br/><br/>
 
 </div>
 
-*My project portfolio is continuously evolving. Visit my repositories to explore my latest work.*
-
-<!--
-FEATURED PROJECT FORMAT
-
-### Project Name
-A concise description of the problem and the solution.
-
-**Technology:** Python · SQL · Pandas
-
-**Key Highlights**
-- What problem does it solve?
-- What did you implement?
-- What meaningful result did you achieve?
-
-[View Repository](YOUR_REPOSITORY_LINK)
-
-Add only genuine projects and measurable results.
--->
-
 ---
 
-## GITHUB INSIGHTS
-
-A snapshot of my development activity and most-used programming languages.
+## 04. GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thegkcode&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=334E68&icon_color=486581&text_color=52606D" alt="GitHub Statistics"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thegkcode&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=365F91&icon_color=365F91" alt="GitHub Statistics"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegkcode&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=334E68&text_color=52606D" alt="Most Used Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegkcode&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=365F91" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## WRITING & KNOWLEDGE SHARING
+## 05. WRITING & KNOWLEDGE SHARING
 
-I enjoy documenting my learning journey and sharing technical insights through written content.
+I enjoy documenting my learning journey and sharing technical knowledge through articles.
 
 <div align="center">
 
 <a href="https://medium.com/@gauravkumargk3004">
-  <img src="https://img.shields.io/badge/READ%20MY%20ARTICLES-111827?style=for-the-badge&logo=medium&logoColor=white" alt="Read My Medium Articles"/>
+  <img src="https://img.shields.io/badge/READ%20MY%20MEDIUM%20ARTICLES-0B1220?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Articles"/>
 </a>
 
 </div>
 
 ---
 
-## LET'S CONNECT
+## 06. CONNECT WITH ME
 
-Interested in technology, exchanging ideas, and collaborating on meaningful projects.
+I'm open to connecting with developers, exchanging ideas, learning from others, and collaborating on meaningful technical projects.
 
 <div align="center">
 
 <a href="mailto:gauravkumargk3004@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-334E68?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://medium.com/@gauravkumargk3004">
-  <img src="https://img.shields.io/badge/MEDIUM-334E68?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-</a>
-<a href="https://www.leetcode.com/always_gk">
-  <img src="https://img.shields.io/badge/LEETCODE-334E68?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/EMAIL-263C57?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://twitter.com/gk_kumar3126">
-  <img src="https://img.shields.io/badge/X-334E68?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-263C57?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.leetcode.com/always_gk">
+  <img src="https://img.shields.io/badge/LEETCODE-263C57?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="https://medium.com/@gauravkumargk3004">
+  <img src="https://img.shields.io/badge/MEDIUM-263C57?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
 
 <br/><br/>
 
-<sub>THANK YOU FOR VISITING MY PROFILE</sub>
+*Thank you for visiting my profile.*
 
-<br/>
+**Learn. Build. Analyze. Evolve.**
 
-**Learn with intention. Build with discipline. Grow with consistency.**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=111827&height=12&section=footer" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243B5A,100:0B1220&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
