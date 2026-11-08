@@ -1,6 +1,8 @@
  <div align="center">
 
-# GAURAV KUMAR
+<h1 align="center">
+  ✨ GAURAV KUMAR
+</h1>
 
 ### Computer Science Student | Data Analytics | Machine Learning
 
