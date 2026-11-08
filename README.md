@@ -1,7 +1,9 @@
- <div align="center">
+<div align="center">
 
 <h1 align="center">
-  ✨ GAURAV KUMAR
+  ⚡ Gaurav Kumar
+  <br>
+  <sub><sup><em>Building Insights Through Data & Technology</em></sup></sub>
 </h1>
 
 ### Computer Science Student | Data Analytics | Machine Learning
